@@ -35,5 +35,8 @@ GOOGLE.COM
     > 学的不仅是技术更是梦想
 * 第二项
 
+```php
     <?php
-    echo 'gandada'>  
+        echo 'gandada'
+    ?>  
+```
